@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! I am Yishin Sheu"
+title                    : "Hi! I am Yishin"
 title_separator          : "-"
 subtitle                 : "I am Postdoctoral Research Scientist with a background in Cognitive Psychology and Neuroscience" # site tagline that appears below site title in masthead
 name                     : "Yi-Shin Sheu"
@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+      #_pages
+      - scope:
+        path: ""
+        type: pages
+        values:
+          layout: single
+          author_profile: true
