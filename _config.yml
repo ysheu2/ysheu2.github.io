@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yishin Sheu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "portfolio"
   location         : "Baltimore, MD"
   email            :
